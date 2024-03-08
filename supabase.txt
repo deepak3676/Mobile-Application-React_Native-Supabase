@@ -1,0 +1,10 @@
+URL 
+---
+
+https://jpmghqnxxabcsfwcuzkb.supabase.co
+
+
+API
+----
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpwbWdocW54eGFiY3Nmd2N1emtiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDk3MjU1NDksImV4cCI6MjAyNTMwMTU0OX0._xIhpvSDeNRI3JGYcaGCHAZQHTyusJlv578UyWLDtNo
