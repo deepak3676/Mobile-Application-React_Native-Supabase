@@ -18,7 +18,7 @@ const Login = () => {
 
     async function signUpWithEmail() {
         setLoading(true)
-        const {
+        const { 
             data: { session },
             error,
         } = await supabase.auth.signUp({

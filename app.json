@@ -1,13 +1,12 @@
 {
   "expo": {
-
     "name": "supaApp",
     "slug": "supaApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "scheme":"com.supabase",
+    "scheme": "com.supabase",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,13 +22,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.divi1348.supaApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-secure-store"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b1d070a0-8953-4df8-af73-5e5a9816fff1"
+      }
+    }
   }
 }
